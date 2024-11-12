@@ -9079,7 +9079,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   background: white;
-  padding: 5em 0;
+  padding: 3em 0;
   z-index: 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
@@ -9103,6 +9103,7 @@ textarea.form-control {
       background: #fff;
       border: 2px solid #fff !important; }
   .ftco-footer p {
+    font-size: 13px;
     color: black; }
   .ftco-footer a {
     color: black; }
